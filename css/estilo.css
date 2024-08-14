@@ -1,0 +1,31 @@
+/* Reset de navegador */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+    color: blue;    
+    width: 80%;
+    margin: auto;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+img {
+    width: 75%;
+}
+
+div {
+   display: flex;
+   justify-content: center;   
+}
